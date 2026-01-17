@@ -173,6 +173,12 @@ Integration with SQL / Cloud platforms
 
 📸 Dashboard Preview
 
+Overview
+
+<img width="2220" height="1250" alt="Screenshot 2026-01-17 150219" src="https://github.com/user-attachments/assets/4afaed82-ac59-419f-b3d1-511af1f0e40a" />
+
+Dashboard
+
 <img width="2318" height="1313" alt="Screenshot 2026-01-17 115835" src="https://github.com/user-attachments/assets/e4c76fa5-0848-4b7e-8593-1482a1c0e83b" />
 
 
